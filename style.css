@@ -1,0 +1,40 @@
+body
+{
+    background-position: center;
+    background-size: cover;
+}
+
+.heading
+{
+    width: 100%;
+    text-align: left;
+    margin-bottom: 5px;
+}
+
+.heading h3
+{
+    display: inline;
+    font-size: 22px;
+}
+
+.heading button
+{
+    float: right;
+    border: 1px solid whitesmoke;
+}
+
+.status_label
+{
+    background-color: whitesmoke;
+}
+
+.footer
+{
+    background-color: grey;
+    color: whitesmoke;
+    margin-bottom: 0px;
+    width: 100%;
+    line-height: 2;
+    position: sticky;
+    bottom: 0px;
+}
